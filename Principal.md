@@ -1,7 +1,7 @@
 # projet
-
+```
 #!/bin/bash
-
+```
 # Définir l’URL du site web à surveiller
 ```
 $(curl -o page.html https://www.boursorama.com/cours/AAPL/)
